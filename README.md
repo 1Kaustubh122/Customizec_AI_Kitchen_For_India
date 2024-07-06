@@ -1,0 +1,28 @@
+<h1 align="center" id="title">Rasoi Maestro</h1>
+
+<p align="center">
+  <img src="https://github.com/1Kaustubh122/Customizec_AI_Kitchen_For_India/assets/142246653/1cd48153-08ee-4eac-b115-dd322de196e7" alt="Rasoi Maestro" width=140>
+</p>
+
+<p id="description">Welcome to the Rasoi Maestro Repository. We are aiming to solve the users to help them solve the people on problems related to how to cook food, its ingredients and also helping them with its quantity. We are empowering them with upload facilities of various images of food dishes and provide LLM based facilities so that users ca ask any queries that can be helpful for users for bridging the gap between modern cooking methods and its making.</p>
+
+## Shout outs 💥
+Kaustubh Krishna - Machine Learning Model
+
+Sachin Prasanth - UI/UX Designing and Front-End Code
+
+<h2>Features:</h2>
+ 
+* Real-time Image Analysis: Instantly analyze images from the device.
+
+* Interactive Questioning: Users ask questions about image content using natural language.
+
+* AI-driven Answering: Answers generated based on image analysis and user queries.
+  
+* Flexible Image Upload: Ability to upload images for analysis from device storage.
+  
+* Accessibility Features: User-friendly interface with compatibility for screen readers.
+  
+* Promotes Independence: Empowers individuals to access cooking information independently.
+  
+* Inclusion: Reduces reliance on assistance, fostering greater inclusion.
