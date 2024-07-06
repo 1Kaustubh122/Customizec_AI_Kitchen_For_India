@@ -29,6 +29,12 @@ Sachin Prasanth - UI/UX Designing and Front-End Code
 
 <h2>🛠 Installation Steps:</h2>
 
+<p>First install the dependencies</p>
+
+```
+pip install -r requirements.txt
+```
+
 <p>For MacOS</p>
 
 ```
