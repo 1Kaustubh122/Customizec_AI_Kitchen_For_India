@@ -4,7 +4,7 @@
   <img src="https://github.com/1Kaustubh122/Customizec_AI_Kitchen_For_India/assets/142246653/1cd48153-08ee-4eac-b115-dd322de196e7" alt="Rasoi Maestro" width=140>
 </p>
 
-<p id="description">Welcome to the Rasoi Maestro Repository. We are aiming to solve the users to help them solve the people on problems related to how to cook food, its ingredients and also helping them with its quantity. We are empowering them with upload facilities of various images of food dishes and provide LLM based facilities so that users ca ask any queries that can be helpful for users for bridging the gap between modern cooking methods and its making.</p>
+<p id="description">Welcome to the Rasoi Maestro Repository. We are aiming to solve the users to help them solve the people on problems related to how to cook food, its ingredients and also helping them with its quantity. We are empowering them with upload facilities of various images of food dishes and provide LLM based facilities so that users can ask any queries that can be helpful for users for bridging the gap between modern cooking methods and its making.</p>
 
 ## Shout outs 💥
 Kaustubh Krishna - Machine Learning Model
