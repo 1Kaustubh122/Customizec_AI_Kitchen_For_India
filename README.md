@@ -26,3 +26,36 @@ Sachin Prasanth - UI/UX Designing and Front-End Code
 * Promotes Independence: Empowers individuals to access cooking information independently.
   
 * Inclusion: Reduces reliance on assistance, fostering greater inclusion.
+
+<h2>🛠 Installation Steps:</h2>
+
+<p>For MacOS</p>
+
+```
+export FLASK_APP=app.py
+```
+
+<p>For Windows</p>
+
+```
+set FLASK_APP=app.py
+```
+<p>Run</p>
+
+```
+flask run --port=2000
+```
+
+<p align="center">OR</p>
+
+<p>Run</p>
+
+```
+python INTEL_UNNATI/app.py
+```
+
+<p>Now Open</p>
+
+```
+http://127.0.0.1:2000
+```
