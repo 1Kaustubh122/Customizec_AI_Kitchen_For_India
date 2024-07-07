@@ -12,7 +12,7 @@ def photo_pred():
 
 
     from tensorflow.keras.models import load_model
-    model = load_model('food_classification_model.keras')
+    model = load_model('Food_Dataset.keras')
 
     def preprocess_image(img_path, target_size=(224, 224)):
         img = image.load_img(img_path, target_size=target_size)
@@ -40,7 +40,7 @@ def photo_pred():
                     
         return predicted_class_label
 
-    data_dir = '/Users/kaustubhkrishna/Documents/INTEL_UNNATI/uploads'
+    data_dir = '/INTEL_UNNATI/uploads'
     results_df = test_all_images(data_dir, model)
 
 
@@ -52,8 +52,6 @@ def photo_pred():
             print(f"The folder {folder_path} does not exist.")
 
 
-    folder_path = '/INTEL_UNNATI/uploads'
-
-    clear_folder(folder_path)
-    print(f"results_df = {results_df}")
+    clear_folder(data_dir)
+    # print(f"results_df = {results_df}")
     return (results_df)
