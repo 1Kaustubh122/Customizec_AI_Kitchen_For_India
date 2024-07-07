@@ -12,7 +12,7 @@ def photo_pred():
 
 
     from tensorflow.keras.models import load_model
-    model = load_model('Food_Dataset.keras')
+    model = load_model('/INTEL_UNNATI/Food_Dataset.keras')
 
     def preprocess_image(img_path, target_size=(224, 224)):
         img = image.load_img(img_path, target_size=target_size)
