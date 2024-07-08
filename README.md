@@ -6,6 +6,8 @@
 
 <p id="description">Welcome to the Rasoi Maestro Repository. We are aiming to solve the users to help them solve the people on problems related to how to cook food, its ingredients and also helping them with its quantity. We are empowering them with upload facilities of various images of food dishes and provide LLM based facilities so that users can ask any queries that can be helpful for users for bridging the gap between modern cooking methods and its making.</p>
 
+[Intel Unnati _ Idea Submission PPT.pdf (1).pdf](https://github.com/user-attachments/files/16128169/Intel.Unnati._.Idea.Submission.PPT.pdf.1.pdf)
+
 
 
 
